@@ -21,6 +21,7 @@ li {
 
 button {
     border: none;
+    cursor: pointer;
 }
 
 .main_screen {
@@ -308,6 +309,70 @@ h2 {
     text-transform: uppercase;
     color: #FFFFFF;
 }
+
+.production_slider {
+    padding-top: 108px;
+    padding-bottom: 107px;
+}
+
+.production_slider .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.production_slider_images {
+    display: flex;
+    justify-content: space-between;
+}
+
+.production_slider_images .second_slider, .third_slider {
+    display: none;
+}
+
+.production_slider_lef, .production_slider_right {
+    width: 31px;
+}
+
+.production_slider_images img {
+    width: 750px;
+}
+
+.catalog {
+    padding-bottom: 79px;
+}
+
+.catalog h2 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0D0D0D;
+    display: block;
+    margin: 0 auto;
+}
+
+.catalog_buttons_wrapper {
+    width: 645px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.catalog_buttons_wrapper button img {
+    background: #fff;
+}
+
+.catalog_buttons_wrapper button {
+    border: none;
+    background: #fff;
+}
+
+
+
+
 
 
 
