@@ -253,6 +253,62 @@ h2 {
     color: #FF0000;
 }
 
+.free_consultation {
+    padding-top: 102px;
+    padding-bottom: 108px;
+    background: url(../img/bg/bg2.png) center center/cover no-repeat;
+}
+
+.free_consultation h2 {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.free_consultation p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.free_consultation form {
+    margin-top: 36px;
+}
+
+.free_consultation input, button {
+    display: block;
+    border-radius: 5px;
+}
+
+.free_consultation input {
+    width: 280px;
+    height: 50px;
+    background: #FFFFFF;
+    margin-bottom: 13px;
+    padding-left: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 66px;
+    color: #4B4B4B;
+}
+
+.free_consultation button {
+    margin-top: 3px;
+    width: 303px;
+    height: 58px;
+    background: #C70101;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
 
 
 
