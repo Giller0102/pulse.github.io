@@ -17,7 +17,7 @@ sliderBtnRight.addEventListener('click', function() {
 
 sliderBtnLeft.addEventListener('click', function() {
     offset = offset + 750;
-    if(offset > 1500) {
+    if(offset > 0) {
         offset = 0;
     }
     sliderLine.style.left = offset + 'px';

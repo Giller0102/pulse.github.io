@@ -1,0 +1,265 @@
+@media screen and (max-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+    .catalog_buttons_wrapper {
+        width: 1140px;
+    }
+}
+
+
+@media screen and (max-width: 1140px) {
+    .container {
+        max-width: 944px;
+    }
+    .catalog_buttons_wrapper {
+        width: 944px;
+    }
+}
+
+
+@media screen and (max-width: 991px) {
+    .container {
+        max-width: 768px;
+    }
+    .light_little_text {
+        font-size: 13px;
+    }
+    .free_consultation h2 {
+        font-size: 33px;
+    }
+    .header_descr {
+        margin-right: 0px;
+    }
+    .catalog_cards_1_item {
+        width: 400px;
+        margin: 0 auto;
+        margin-bottom: 35px;
+    }
+    .catalog_cards_1_wrapper, .catalog_cards_2_wrapper {
+        display: block;
+    }
+    .reviews_item_descr {
+        width: 551px;
+    }
+    .reviews_item {
+        margin-top: 77px;
+    }
+    .catalog_buttons_wrapper {
+        width: 768px;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .container {
+        max-width: 650px;
+    }
+    .reviews_item_descr {
+        width: 434px;
+    }
+    .reviews_item_descr p {
+        font-size: 14px;
+    }
+    .logo {
+        margin-right: 79px;
+    }
+    .header_descr .header_descr_companies {
+        margin-top: 9px;
+        width: 196px;
+    }
+    .header_descr {
+        margin-right: 11px;
+    }
+    .light_little_text {
+        font-size: 12px;
+    }
+    .bold_little_text {
+        font-size: 16px;
+    }
+    .free_consultation h2 {
+        font-size: 27px;
+    }
+    h2 {
+        font-size: 27px;
+    }
+    .reviews_item_descr p {
+        font-size: 13px;
+    }
+    .catalog_buttons_wrapper {
+        width: 650px;
+    }
+}
+
+
+@media screen and (max-width: 659px) {
+    .container {
+        max-width: 540px;
+    }
+    .logo {
+        margin-right: 0px;
+    }
+    .header_descr .header_descr_companies {
+        font-size: 16px;
+    }
+    .header_contacts button {
+        width: 135px;
+    }
+    .header_contacts p a {
+        font-size: 15px;
+    }
+    .our_advantages_cards_wrapper {
+       display: block;
+    }
+    .our_advantages_cards_wrapper .light_little_text {
+        font-size: 16px;
+    }
+    .our_advantages_cards_wrapper .bold_little_text {
+        font-size: 21px;
+    }
+    .catalog_buttons_wrapper {
+        display: block;
+    }
+    .catalog_buttons_wrapper button {
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    h1 {
+        font-size: 40px;
+    }
+    .our_advantages_cards_item {
+        margin-bottom: 45px;
+    }
+    .our_advantages_cards_wrapper .bold_little_text {
+        margin-top: 16px;
+    }
+    .catalog_buttons_wrapper {
+        width: 540px;
+    }
+    .reviews_item {
+        display: block;
+    }
+    .reviews_item_img {
+        width: 169px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+    .reviews_item_descr {
+        width: 500px;
+    }
+    .reviews_item_descr p {
+        text-align: center;
+    }
+    .bold_little_text {
+        font-size: 17px;
+    }
+    .reviews_item_descr p {
+        font-size: 15px;
+    }
+    .reviews h2 {
+        font-size: 27px;
+    }
+    .header_contacts button {
+        width: 125px;
+    }
+    .header_contacts button a {
+        font-size: 10px;
+    }
+    .catalog_buttons_wrapper {
+        width: 540px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .container {
+        width: 420px;
+        padding: 0;
+    }
+    .first_screen_wrapper {
+        width: none;
+        margin: 0 auto;
+    }
+    .header_contacts {
+        display: none;
+    }
+    h1 {
+        margin-top: 55px;
+        font-size: 38px;
+        text-align: center;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    .reviews_item_descr {
+        width: 410px;
+    }
+    .reviews_item_img img {
+        display: block;
+        width: 140px;
+        height: 140px;
+    }
+    .first_screen_btn {
+        margin-left: 0px;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .first_screen_wrapper {
+        width: 420px;
+    }
+    .fs_after_btn_text {
+        text-align: center;
+    }
+    .first_screen p {
+        text-align: center;
+        font-size: 21px;
+    }
+    .free_consultation h2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .catalog_buttons_wrapper {
+        width: 420px;
+    }
+    footer .container {
+        width: 420px;
+    }
+    .first_screen_icons_wrapper {
+        margin-top: 45px;
+    }
+}
+
+
+@media screen and (max-width: 420px) {
+    .container {
+        width: 320px;
+    }
+    .catalog_cards_1_item {
+        width: 320px;
+    }
+    .catalog_buttons_wrapper {
+        width: 320px;
+    }
+    .reviews_item_descr {
+        width: 310px;
+    }
+    .reviews_item_descr p {
+        font-size: 13px;
+    }
+    .first_screen_wrapper {
+        width: 320px;
+    }
+    footer {
+        background: none;
+        padding-bottom: 0px;
+    }
+    .first_screen_icons_wrapper {
+        width: 320px;
+    }
+    .first_screen_btn {
+        width: 260px;
+    }
+    .first_screen_btn a {
+        font-size: 14px;
+    }
+}
